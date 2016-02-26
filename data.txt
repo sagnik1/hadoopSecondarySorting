@@ -1,0 +1,9 @@
+Sagnik,Nath,14
+ABC,Das,52
+XYZ,Pal,72
+ANC,Pal,51
+ABC,Barua,100
+MQKD,Nath,19
+WEQ,Nath,21
+MQKD,Barua,104
+
